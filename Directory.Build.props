@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+	<PropertyGroup>
+		<GamePath>/home/bulby/.local/share/Steam/steamapps/common/Anyland</GamePath>
+		<GameAssemblyPath>$(GamePath)\anyland_Data\Managed</GameAssemblyPath>
+		<BepInExAssemblyPath>$(GamePath)\BepInEx\core</BepInExAssemblyPath>
+		<PluginsPath>$(GamePath)\BepInEx\plugins</PluginsPath>
+	</PropertyGroup>
+</Project>
