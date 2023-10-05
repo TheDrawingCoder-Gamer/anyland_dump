@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using SimpleJSON;
 using System.Linq;
 namespace DumpInv {
-	[BepInPlugin("net.bulbyvr.anyland.DumpInv", "Dump Inventory", "1.0.1")]
+	[BepInPlugin("net.bulbyvr.anyland.DumpInv", "Dump Inventory", "1.1.0")]
 	public class Plugin : BaseUnityPlugin
 	{
 		void Awake() {
